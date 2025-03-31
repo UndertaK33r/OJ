@@ -105,5 +105,6 @@ knife4j:
 codesandbox:
   type: remote
 # AI配置
+# todo 开启AI帮助需填入自己的aikey
 ai:
-  key: sk-6636af76aefd40f0945adf22593c87c9
+  key: 
