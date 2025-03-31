@@ -1,0 +1,6 @@
+npm install monaco-editor
+npm i @bytemd/plugin-gfm
+npm i @bytemd/plugin-highlight
+npm i @bytemd/vue-next
+npm install --save-dev @arco-design/web-vue
+npm install monaco-editor-webpack-plugin
